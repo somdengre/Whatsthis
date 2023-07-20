@@ -1,6 +1,23 @@
-.e1contain{
+.econtain{
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+}
+
+.etop{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    margin: auto;
+    
+}
+
+.etopi{
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    height: 36rem;
 }
