@@ -5,6 +5,7 @@
     justify-content: center;
     width: 85%;
     gap: 2rem;
+    margin-bottom: 4rem;
 }
 
 .abtl{
@@ -36,4 +37,28 @@
     /* align-items: center; */
     justify-content: center;
     text-align: left;
+}
+
+.prihead{
+    font-size: 1.2rem;
+    font-family: "Baskerville Old Face", serif;
+    
+
+}
+
+.sechead{
+    font-size: 1.2rem;
+    font-family: "Baskerville Old Face", serif;
+    color: gray;
+}
+
+.abthead{
+    font-family: "Baskerville Old Face", serif;
+    font-size: 3rem;
+    color: gray;
+    letter-spacing: 0.035rem;
+}
+
+.abtxt{
+    font-family: "Baskerville Old Face", serif;
 }

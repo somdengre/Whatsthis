@@ -1,0 +1,57 @@
+.whcard{
+    margin: auto;
+    margin-top: 10rem;
+    display: flex;
+    width: 80%;
+    align-items: center;
+    justify-content: center;
+    gap: 20%;
+
+}
+
+.whcardl{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.whcard_sectext{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: "Baskerville Old Face", serif;
+    gap: 2rem;
+}
+
+.whsec_text{
+    font-family: "Baskerville Old Face", serif;
+
+}
+
+.vline{
+    background-color: black;
+    width: 0.15rem;
+    height: 3rem;
+}
+
+.whcard_name{
+    color: gray;
+    font-family: "Baskerville Old Face", serif;
+}
+.whcardri{
+    height: 12rem;
+}
+
+.whmidi{
+    margin-top: 8rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+.whmidimg{
+    height: 35rem;
+    width: 80%;
+}
+

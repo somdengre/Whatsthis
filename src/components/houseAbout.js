@@ -1,6 +1,7 @@
 import React from 'react'
 import './houseAbout.css';
-function HouseAbout() {
+function HouseAbout(props) {
+    let name = props.name;
     
   return (
     <div className = 'about'>
@@ -26,7 +27,7 @@ function HouseAbout() {
             </div>
         </div>
         <div className = 'abtr'>
-            <div className = 'abthead'>Adison House</div>
+            <div className = 'abthead'>{name}</div>
             <div className = 'abtxt'>
                 Domino Park begins the next chapter of the Williamsburg waterfront. Named after the redeveloped Domino Sugar Refinery, the 5-acre 
                 park provides public greenspace along the East River for the first time in 160 years. The site’s industrial history is showcased via 

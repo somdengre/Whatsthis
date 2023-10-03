@@ -14,10 +14,148 @@
 }
 
 .etopi{
-    
+    width: 100%;
     display: flex;
     align-items: center;
     justify-content: center;
     margin: auto;
     height: 36rem;
 }
+
+.eli{
+    width: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 7.5rem;
+    margin: auto;
+    margin-top: 7rem;
+}
+
+.elil{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.eb1i{
+    display: flex;
+    height: 26rem;
+}
+
+.elir{
+    
+    display: flex;
+    align-items: flex-end;
+    margin-bottom: 12rem;
+    font-family: "Baskerville Old Face", serif;
+}
+
+
+.edo{
+    
+    margin-top: 12rem;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    justify-content: right;
+    align-items: flex-end;
+    
+}
+
+
+.edot{
+    margin-right: 6rem;
+    display: flex;
+    align-items: center;
+    justify-content: right;
+}
+.eb2i{
+    width: 80%;
+}
+
+.edob{
+    margin-right: 6rem;
+    width: 59%;
+    display: flex;
+    align-items: right;
+    font-family: "Baskerville Old Face", serif;
+
+}
+
+.ewa{
+    margin-top: 10rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 7rem;
+    margin-left: 4%;
+}
+
+
+.ewal{
+    width: 40%;
+    display: flex;
+    margin-bottom: 7rem;
+    justify-content: center;
+    
+}
+
+.eb3i{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.ewar{
+
+    width:60% ;
+    display: flex;
+    flex-direction: column;
+    gap: 7rem;
+    /* align-items: center; */
+    /* justify-content: center; */
+    
+}
+
+.ewart{
+    width: 40rem;
+    margin-right: 6rem;
+    font-family: "Baskerville Old Face", serif;
+}
+
+.ewarb{
+    width: 40rem;
+}
+
+.eei{
+    margin-top: 12rem;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    justify-content: right;
+    align-items: flex-end;
+}
+
+.edob{
+    margin-right: 6rem;
+    display: flex;
+    align-items: center;
+    justify-content: right;
+}
+
+.edod{
+    margin-right: 6rem;
+    width: 59%;
+    display: flex;
+    align-items: right;
+    font-family: "Baskerville Old Face", serif;
+}
+
+.eb5i{
+    width: 100%;
+}
+

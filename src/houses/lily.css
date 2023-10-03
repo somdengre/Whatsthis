@@ -1,0 +1,114 @@
+.lbox1{
+    margin-top: 8rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+
+.lbox1t{
+    width: 40%;
+    font-family: "Baskerville Old Face", serif;
+}
+
+.lbox1im{
+    height: 30rem;
+    width: 40rem;
+}
+
+.lbox2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.lbox2t{
+    width: 40%;
+    font-family: "Baskerville Old Face", serif;
+}
+
+.lbox2i{
+    margin-top: -6%;
+    
+}
+
+.lbox2im{
+    height: 30rem;
+    width: 40rem;
+}
+
+.lbox3{
+    margin-top: 8rem;
+    display: flex;
+    align-items: center;
+}
+
+.lbox3im{
+    width: 100%;
+    height: 32rem;
+}
+.lbox3t{
+    margin-top: 4%;
+    margin-left: 15%;
+    font-family: "Baskerville Old Face", serif;
+    width: 40%;
+}
+
+.lbox4{
+    margin-top: 8rem;
+    display: flex;
+    justify-content: center;
+    width: 95%;  
+}
+
+.lbox41{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.lbox41t{
+    font-family: "Baskerville Old Face", serif;
+}
+
+.lbox41im{
+    height: 95%;
+}
+
+
+.lbox42{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.lbox42t{
+    font-family: "Baskerville Old Face", serif;
+}
+
+.lbox43{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.lbox43im{
+    height: 90%;
+}
+
+.lbox5{
+    display: flex;
+    justify-content: center;
+    gap: 5rem;
+}
+
+.lbox5t{
+    width: 30%;
+    font-family: "Baskerville Old Face", serif;
+}
+
+
+.lbox5im{
+    width: 45rem;
+}

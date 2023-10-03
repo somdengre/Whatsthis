@@ -1,0 +1,101 @@
+.jbox1{
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    margin-top: 9rem;
+    
+}
+
+.jbox1t{
+ width: 40%;
+ font-family: "Baskerville Old Face", serif;
+
+}
+
+.jbox1im{
+    width: 35rem;
+    height: 30rem;
+}
+
+.jbox2{
+ 
+    margin-top: 9rem;
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
+}
+
+.jbox2t{
+    width: 50%;
+    margin-left: 10%;
+    font-family: "Baskerville Old Face", serif;
+}
+
+.jbox2i{
+    margin-left: 10%;
+    width: 48%;
+}
+.jbox2im{
+    width: 45rem;
+    height: 30rem;
+    
+}
+
+.jbox3{
+    
+    display: flex;
+    align-items: flex-end;
+    gap: 6%;
+    
+}
+
+.jbox3t{
+    width: 45%;
+    font-family: "Baskerville Old Face", serif;
+    margin-left: 10%;
+}
+
+.jbox3i{
+    margin-top: -10%;
+}
+.jbox3im{
+    height: 35rem;
+}
+
+.jbox4{
+    margin-top: 8rem;
+}
+
+.jbox4i{
+    width: 70%;
+}
+
+.jbox4im{
+    width: 60rem;
+    height: 30rem;
+}
+
+.jbox5{
+    display: flex;
+    margin-top: 8rem;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+    
+}
+
+.jbox5t{
+    width: 40%;
+    margin-top: 17%;
+}
+
+/* .jbox5i{
+    width: 40%;
+
+} */
+
+.jbox5im{
+    width: 30rem;
+    height: 25rem;
+}
+

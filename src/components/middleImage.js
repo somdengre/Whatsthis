@@ -1,10 +1,10 @@
 import React from 'react';
-import './middleImage.css';
-import middle1 from '../assets/houses/house1/middle1.svg'
-function MiddleImage() {
+import './middleImage.css'
+function MiddleImage(props) {
+  const middle = props.middle;
   return (
     <div className = 'middle'>
-         <img className="middlei" src={middle1} alt="middleimage" />
+         <img className="middlei" src={middle} alt="middleimage" />
     </div>
   )
 }

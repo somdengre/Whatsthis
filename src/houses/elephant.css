@@ -1,0 +1,102 @@
+.ebox1{
+    width: 70%;
+    margin: auto;
+    margin-top: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 7rem;
+
+}
+
+.ebox1l{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 40%;
+
+
+}
+
+.etopli{
+    width: 28rem;
+    height: 56rem ;
+}
+
+
+.ebox1r{
+    
+    height: 35rem;
+    display: flex;
+    flex-direction: column;
+    gap: 5.5rem;
+    
+   
+
+}
+
+
+
+.etopri{
+    height: 16.5rem;
+    width: 16.5rem;
+    float: left;
+}
+
+.ebox1r_text{
+    font-family: "Baskerville Old Face", serif;
+}
+
+
+/*ebox2*/
+
+.ebox2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 3rem;
+}
+
+.ebox2i{
+    width: 80%;
+}
+
+.ebox2_text{
+    width: 80%;
+    font-family: "Baskerville Old Face", serif;
+    
+}
+
+/*ebox3*/
+
+.ebox3{
+    margin-top: 7rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 9rem;
+}
+
+.ebox3_text{
+    width: 40%;
+    font-family: "Baskerville Old Face", serif; 
+}
+
+.ebox3i{
+    width: 30%;
+}
+
+
+.ebox3b{
+    width: 40%;
+    float: left;
+    margin-left: 10rem;
+}
+.ebox4i{
+    margin-top: 7rem;
+    float: left;
+    width: 100%;
+    
+}

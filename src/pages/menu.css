@@ -1,0 +1,52 @@
+.menu_contain{
+    height: 100vh;
+    width: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    
+    margin: auto;
+}
+
+.menu_img{
+    margin: auto;
+    margin-top: 5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.opts{
+    text-decoration: none;
+    margin: auto;
+    margin-top: 7rem;
+    margin-bottom: 2rem;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    font-family: "Baskerville Old Face";
+    font-size: 1.5rem;
+}
+
+.opt1 a{
+    text-decoration: none;
+    color: black;
+}
+
+.opt2 a{
+    text-decoration: none;
+    color: black;
+}
+
+.opt3 a{
+    text-decoration: none;
+    color: black;
+}
+
+.opt4 a{
+    text-decoration: none;
+    color: black;
+}
+

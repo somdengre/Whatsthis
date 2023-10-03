@@ -3,10 +3,12 @@
     align-items: center;
     justify-content: center;
     margin: auto;
-    margin-top: 9rem;
+    width: 100%;
+    margin-top: 8rem;
 }
 
 .middlei{
-    width: 70%;
-    height: 50rem;
+    
+    width: 70% ;
+    height: 35rem ;
 }

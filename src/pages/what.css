@@ -1,0 +1,56 @@
+.hcontain{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.hpet{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 4rem;
+
+}
+
+.hpetal{
+    margin: auto;
+}
+
+.htext{
+    margin: auto;
+    font-family: "Baskerville Old Face";
+    font-weight: 800;
+    font-size: 1.2rem;
+    margin-top: 0.9rem;
+}
+
+.himgs{
+    margin-top: 4.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+
+}
+
+.himgc{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 4rem;
+    width: 40%;
+    height: 30rem;
+    object-fit: contain;
+}
+
+.hopts{
+    margin: auto;
+    margin-top: 7rem;
+    margin-bottom: 2rem;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}

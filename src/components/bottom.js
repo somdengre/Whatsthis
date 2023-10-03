@@ -1,13 +1,16 @@
 import React from 'react'
 import './bottom.css';
+
+
 function Bottom() {
   return (
     
         <div className='hopts'>
-            <div  className='hopt'>Who</div>
-            <div className='hopt'>What</div>
-            <div className='hopt'>Why</div>
-            <div className='hopt'>Where</div>
+            <div className='hopt' ><a href='/who'>Who</a></div>
+            <div className='hopt' ><a href='/what'>What</a></div>
+            <div className='hopt' ><a href='/why'>Why</a></div>
+            <div className='hopt' ><a href='/where'>Where</a></div>
+            
         </div>
     
   )

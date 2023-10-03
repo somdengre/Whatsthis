@@ -1,0 +1,371 @@
+.wlprihead{
+    margin-top:9rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: gray;
+    font-family: "Baskerville Old Face", serif;
+    font-size: 2.5rem;
+}
+
+.wlsechead{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 70%;
+    margin: auto;
+    font-family: "Baskerville Old Face", serif;
+    margin-top: 2rem;
+}
+
+
+
+.wlbox1{
+ 
+    margin-top: 9rem;
+    display: flex;
+    gap: 3rem;
+    align-items: center;
+}
+
+.wlbox1t{
+    width: 30%;
+    
+    font-family: "Baskerville Old Face", serif;
+}
+
+.wlbox1i{
+    margin-left: 10%;
+    width: 48%;
+}
+.wlbox1im{
+    width: 45rem;
+    height: 30rem;
+    
+}
+
+.wlbox2{
+    
+    display: flex;
+    align-items: flex-end;
+    gap: 6%;
+    
+}
+
+.wlbox2t{
+    width: 45%;
+    font-family: "Baskerville Old Face", serif;
+    margin-left: 10%;
+}
+
+.wlbox2i{
+    margin-top: -10%;
+}
+.wlbox2im{
+    height: 15rem;
+}
+
+
+
+.wlbox3{
+    margin-top: 8rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+    gap: 2rem;
+}
+
+.wlbox3t{
+    margin-left: 10%;
+    display: flex;
+    
+    font-family: "Baskerville Old Face", serif;
+}
+
+.wlbox3i{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%
+}
+
+.wlbox3im{
+    width: 80%;
+    height: 35rem;
+}
+
+
+
+.wlbox4{
+    width: 80%;
+    margin: auto;
+    margin-top: 9rem;
+    display: flex;
+    /* align-items: center; */
+    justify-content: center;
+    gap: 7%;
+}
+
+.wlbox4t{
+    font-family: "Baskerville Old Face", serif;
+}
+
+
+
+
+.wlcombox{
+    margin: auto;
+    margin-top: 8rem;
+    display: flex;
+    width: 90%;
+    gap: 2rem;
+    
+    
+}
+
+.wlbox5{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    margin-top: 25%;
+}
+
+/* .wlbox5i{
+    width:100%;
+}
+
+.wlbox5im{
+    width:100%;
+} */
+
+.wlbox6{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+
+.wlsechead1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 70%;
+    margin: auto;
+    font-family: "Baskerville Old Face", serif;
+    
+}
+
+
+
+.wlbox7{
+    margin-top: 10rem;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    margin-right: 7%;
+    gap: 2rem;
+}
+
+.wlbox7t{
+    width: 80%;
+    
+}
+
+.wlbox8{
+    
+    margin-top: 10rem;
+    width: 80%;
+    margin-left: 8%;
+
+}
+
+.wlbox8t{
+    width: 60%;
+    margin: auto;
+    margin-top: 3%;
+    font-family: "Baskerville Old Face", serif;
+}
+
+.wlimgmidi{
+    margin-top: 4rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+
+
+
+.wlbox9{
+    margin-top: 6rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+}
+
+.wlbox9l{   
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+
+}
+
+.wlbox9lt{
+    font-family: "Baskerville Old Face", serif;
+}
+
+
+
+.wlbox9m{   
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    margin-top: 20%;
+    
+}
+.wlbox9mt{
+    font-family: "Baskerville Old Face", serif;
+}
+
+
+
+
+.wlbox9r{   
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    
+}
+.wlbox9rt{
+    font-family: "Baskerville Old Face", serif;
+}
+
+
+.wlbox10{
+    margin-top: 8rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.wlbox10i{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+.wlbox10im{
+    width: 75%;
+}
+
+
+
+
+.wlbox11{
+    margin: auto;
+    margin-top: 6rem;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    gap: 1rem;
+    width: 75%;
+}
+
+
+.wlbox11lim{
+    width: 23rem;
+}
+.wlbox11mim{
+    width: 23rem;
+}
+.wlbox11rim{
+    width: 23rem;
+}
+
+
+
+.wlbox12{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+    width: 75%;
+    margin: auto;
+    margin-top: 6rem;   
+}
+
+.wlbox12l{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.wlbox12lpt{
+    color: gray;
+    font-family: "Baskerville Old Face", serif;
+    font-size: 1.4rem;
+}
+
+.wlbox12lst{
+    
+    font-family: "Baskerville Old Face", serif;
+    
+}
+
+.wlbox12m{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.wlbox12mpt{
+    color: gray;
+    font-family: "Baskerville Old Face", serif;
+    font-size: 1.4rem;
+}
+
+.wlbox12mst{
+    
+    font-family: "Baskerville Old Face", serif;
+    
+}
+
+
+.wlbox12r{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.wlbox12rpt{
+    color: gray;
+    font-family: "Baskerville Old Face", serif;
+    font-size: 1.4rem;
+}
+
+.wlbox12rst{
+    
+    font-family: "Baskerville Old Face", serif;
+    
+}
+
+
+.wlsechead{
+    margin-top: 6rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+}
+
+.wlsec{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

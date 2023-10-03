@@ -1,0 +1,8 @@
+.head{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: gray;
+    font-size: 2rem;
+    font-family: "Baskerville Old Face", serif;
+}
