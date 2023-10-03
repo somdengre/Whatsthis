@@ -32,21 +32,28 @@
 
 .opt1 a{
     text-decoration: none;
-    color: black;
+    color: gray;
 }
 
 .opt2 a{
     text-decoration: none;
-    color: black;
+    color: gray;
 }
 
 .opt3 a{
     text-decoration: none;
-    color: black;
+    color: gray;
 }
 
 .opt4 a{
     text-decoration: none;
-    color: black;
+    color: gray;
 }
 
+.otext{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: "Baskerville Old Face", serif;
+    font-size: 2rem;
+}

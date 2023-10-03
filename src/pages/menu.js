@@ -33,7 +33,7 @@ function Menu() {
         <div>
             <Petals/>
         </div>
-        <div>
+        
         <div className = 'otext'>
           {text}
         </div>
@@ -46,7 +46,7 @@ function Menu() {
         </div>
 
         
-        </div>
+        
     </div>
 
   )
