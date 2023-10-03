@@ -38,10 +38,10 @@ function Menu() {
           {text}
         </div>
         <div className='opts' >
-            <div className='opt1' onMouseEnter={handleEnter1} onMouseLeave={handleExit}><a href='/who'>Who</a></div>
-            <div className='opt2' onMouseEnter={handleEnter2} onMouseLeave={handleExit}><a href='/what'>What</a></div>
-            <div className='opt3' onMouseEnter={handleEnter3} onMouseLeave={handleExit}><a href='/why'>Why</a></div>
-            <div className='opt4' onMouseEnter={handleEnter4} onMouseLeave={handleExit}><a href='/where'>Where</a></div>
+            <div className='opt1' onMouseEnter={handleEnter1} onMouseLeave={handleExit}><Link href='/who'>Who</Link></div>
+            <div className='opt2' onMouseEnter={handleEnter2} onMouseLeave={handleExit}><Link href='/what'>What</Link></div>
+            <div className='opt3' onMouseEnter={handleEnter3} onMouseLeave={handleExit}><Link href='/why'>Why</Link></div>
+            <div className='opt4' onMouseEnter={handleEnter4} onMouseLeave={handleExit}><Link href='/where'>Where</Link></div>
             
         </div>
 
